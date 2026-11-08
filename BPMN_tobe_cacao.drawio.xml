@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Yl_xiV2ekKdFq997c_DY">
+    <mxGraphModel dx="1483" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bEWu8htO5sliVu2rHKrj-143" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="852.5" width="1269.21" x="20" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-53" parent="bEWu8htO5sliVu2rHKrj-143" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;whiteSpace=wrap;fontColor=light-dark(#D4D4D4,#FFFFFF);container=1;" value="&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; font-family: Inter, sans-serif; font-size: 14px; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;Gestión Automatizada de Supervisión y Mitigación de Toxinas - Finca Vergara&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="20" width="1220" as="geometry">
+            <mxRectangle height="30" width="530" x="20" y="320" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-95" parent="bEWu8htO5sliVu2rHKrj-143" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="250" width="1269.21" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-125" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-123" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-99" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fontColor=light-dark(#FCFCFC,#FFFFFF);strokeColor=light-dark(#000000,#80FF00);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;Monitoreo continuo en campo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="44.83516483516483" y="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-129" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-123" parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#FCFCFC,#FFFFFF);align=center;" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Medir concentraciones de gases con sensores MQ y DHT22&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="134.5054945054945" x="179.34065934065933" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-126" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=light-dark(#000000,#00FF00);" value="1" vertex="1">
+          <mxGeometry height="30" width="30" x="291.42857142857144" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-131" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-130" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font&gt;&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Transmitir telemetría vía Wi-Fi al servidor Node.js&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" link="&#xa;&lt;span style=&quot;color: rgb(252, 252, 252); font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(50, 50, 50); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Transmitir telemetría vía Wi-Fi al servidor Node.js&lt;/span&gt;&#xa;&#xa;" id="bEWu8htO5sliVu2rHKrj-128">
+          <mxCell parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#FCFCFC,#FFFFFF);roundedPerimeter=1;strokeColor=light-dark(#000000,#FFFFFF);" vertex="1">
+            <mxGeometry height="60" width="134.5054945054945" x="358.68131868131866" y="82.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-136" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bEWu8htO5sliVu2rHKrj-137">
+          <mxGeometry relative="1" x="-0.104" as="geometry">
+            <Array as="points">
+              <mxPoint x="588.4615384615386" y="32.5" />
+            </Array>
+            <mxPoint x="694.945054945055" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-130" parent="bEWu8htO5sliVu2rHKrj-95" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#FCFCFC,#FFFFFF);" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(252, 252, 252), rgb(255, 255, 255)); font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-decoration-line: inherit;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;¿Nivel de toxicidad supera el umbral&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;crítico?&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="123.2967032967033" x="526.8131868131868" y="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-135" parent="bEWu8htO5sliVu2rHKrj-95" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SI" vertex="1">
+          <mxGeometry height="30" width="67.25274725274726" x="515.6043956043957" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-134" parent="bEWu8htO5sliVu2rHKrj-95" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NO" vertex="1">
+          <mxGeometry height="30" width="67.25274725274726" x="515.6043956043957" y="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-139" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-137" parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#FCFCFC,#FFFFFF);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font&gt;Almacenar lecturas normales en MySQL&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="134.5054945054945" x="661.3186813186813" y="2.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-138" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#FCFCFC,#FFFFFF);rounded=1;roundedPerimeter=1;strokeWidth=3;strokeColor=light-dark(#000000,#CC0000);" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(252, 252, 252), rgb(255, 255, 255)); font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start; text-decoration-line: inherit;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Ciclo normal&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="44.83516483516483" x="818.2417582417582" y="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-140" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bEWu8htO5sliVu2rHKrj-142">
+          <mxGeometry relative="1" x="-0.2914" as="geometry">
+            <Array as="points">
+              <mxPoint x="588.5" y="185" />
+            </Array>
+            <mxPoint x="588.4615385" y="157.4999999999999" as="sourcePoint" />
+            <mxPoint x="661.3186813186813" y="177.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-148" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-168" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-147" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-142" parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#FCFCFC,#FFFFFF);" value="&lt;br&gt;&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font&gt;Disparar alerta push crítica a la App Móvil&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="134.5054945054945" x="661.3186813186813" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-145" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=light-dark(#000000,#00FF00);" value="2" vertex="1">
+          <mxGeometry height="30" width="30" x="773.4065934065935" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-147" parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#FCFCFC,#FFFFFF);roundedPerimeter=1;" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;Activar automáticamente electroválvulas de riego&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="134.5054945054945" x="829.4505494505495" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-150" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;strokeColor=light-dark(#000000,#00FF00);" value="3" vertex="1">
+          <mxGeometry height="30" width="30" x="939.2079207920792" y="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-153" parent="bEWu8htO5sliVu2rHKrj-95" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#FCFCFC,#FFFFFF);rotation=-90;" value="&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; font-family: Inter, sans-serif; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;span class=&quot;inline-code ng-star-inserted&quot; style=&quot;background-image: none; background-position: 0% 0%; background-size: auto; background-repeat: repeat; background-attachment: scroll; background-origin: padding-box; background-clip: border-box; -webkit-tap-highlight-color: transparent; box-sizing: border-box; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 4px; display: inline-block; font-family: &amp;quot;DM Mono&amp;quot;, monospace; padding: 0px 2px; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Sistema Web y Móvil IoT (ESP32)&lt;/font&gt;&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="10" width="242.3762376237624" x="-116.13861386138613" y="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-167" edge="1" parent="bEWu8htO5sliVu2rHKrj-95" source="bEWu8htO5sliVu2rHKrj-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-165" parent="bEWu8htO5sliVu2rHKrj-95" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(rgb(252, 252, 252), #eeeded);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font&gt;Desactivar riego al descender toxinas a rangos seguros&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="969.21" y="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-166" parent="bEWu8htO5sliVu2rHKrj-95" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontColor=light-dark(#FCFCFC,#FFFFFF);rounded=1;roundedPerimeter=1;strokeWidth=3;strokeColor=light-dark(#000000,#FF0000);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Incidente mitigado y registrado&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="1150" y="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-55" parent="bEWu8htO5sliVu2rHKrj-143" style="swimlane;html=1;startSize=20;horizontal=0;fontColor=light-dark(#D4D4D4,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="300" width="1269.21" y="270" as="geometry">
+            <mxRectangle height="30" width="870" y="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-56" parent="bEWu8htO5sliVu2rHKrj-55" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#D4D4D4,#FFFFFF);rotation=-90;" value="&lt;h3&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;strong class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; font-family: Inter, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;Agricultor / Trabajador de Campo&lt;/span&gt;&lt;/strong&gt;&lt;/font&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="10" width="235.38461538461542" x="-108.72527472527474" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-163" parent="bEWu8htO5sliVu2rHKrj-55" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#FCFCFC,#FFFFFF);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;Supervisar flujo de agua en los aspersores del sector alertado&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="121.1881188118812" x="212.0750495049505" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-78" parent="bEWu8htO5sliVu2rHKrj-143" style="swimlane;html=1;startSize=20;horizontal=0;" value="" vertex="1">
+          <mxGeometry height="282.5" width="1269.21" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-79" parent="bEWu8htO5sliVu2rHKrj-78" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#D4D4D4,#FFFFFF);rotation=-90;" value="&lt;span class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; font-family: Inter, sans-serif; text-align: start; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot; style=&quot;-webkit-tap-highlight-color: transparent; box-sizing: border-box; animation: auto ease 0s 1 normal none running none !important; transition: none !important;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Administrador / Propietario (Ing. Luis Vergara)&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="302.6373626373627" x="-142.35164835164838" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-161" edge="1" parent="bEWu8htO5sliVu2rHKrj-78" source="bEWu8htO5sliVu2rHKrj-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-158" parent="bEWu8htO5sliVu2rHKrj-78" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=light-dark(#FCFCFC,#FFFFFF);" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Visualizar alerta y métricas en tiempo real en la App Móvil&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="121.1881188118812" x="50.495049504950494" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-160" parent="bEWu8htO5sliVu2rHKrj-78" style="rounded=1;whiteSpace=wrap;html=1;fontColor=light-dark(#FCFCFC,#FFFFFF);roundedPerimeter=1;" value="&lt;span style=&quot;font-family: &amp;quot;DM Mono&amp;quot;, monospace; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Verificar ejecución del riego de mitigación en el Dashboard&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="121.1881188118812" x="212.07920792079207" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-157" edge="1" parent="bEWu8htO5sliVu2rHKrj-143" source="bEWu8htO5sliVu2rHKrj-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;endArrow=classic;endFill=1;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="bEWu8htO5sliVu2rHKrj-158">
+          <mxGeometry relative="1" x="0.1175" as="geometry">
+            <Array as="points">
+              <mxPoint x="896.7" y="260" />
+              <mxPoint x="30.3" y="260" />
+              <mxPoint x="30.3" y="705" />
+            </Array>
+            <mxPoint x="810" y="210" as="sourcePoint" />
+            <mxPoint x="50.495049504950494" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-162" edge="1" parent="bEWu8htO5sliVu2rHKrj-143" source="bEWu8htO5sliVu2rHKrj-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="bEWu8htO5sliVu2rHKrj-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80.79207920792079" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bEWu8htO5sliVu2rHKrj-164" edge="1" parent="bEWu8htO5sliVu2rHKrj-143" source="bEWu8htO5sliVu2rHKrj-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="bEWu8htO5sliVu2rHKrj-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
